@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @jayant924  
+- 👀 I’m interested in backend development, system architecture, and full-stack web applications using PHP, Laravel, Node.js, and ASP.NET Core.  
+- 🌱 I’m currently learning ASP.NET Core, C#, and exploring CI/CD, Docker, and clean architecture practices.  
+- 💞️ I’m looking to collaborate on web and API-based projects, especially in e-commerce, SaaS, or automation tools.  
+- 📫 How to reach me:  
+  - 📧 Email: jayant924@gmail.com  
+  - 💼 LinkedIn: [linkedin.com/in/jayant924](https://www.linkedin.com/in/jayant924)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love reverse-engineering how things work and often write small utilities or tools to automate repetitive tasks for fun.
